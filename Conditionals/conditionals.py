@@ -19,5 +19,3 @@ elif bmi<30 :
     print (f"Su indice de masa corporal es: {round(bmi,1)}, lo que indica que tiene sobrepeso")
 else:
      print (f"Su indice de masa corporal es: {round(bmi,1)}, lo que indica que tiene obesidad")
-
-
