@@ -1,5 +1,5 @@
 # Learning-Python
-Example code for python
+Example codes for python
 In this Repository you can find my firsts coding exercises in Python
 I will be organized in directories according to the topic.
 
